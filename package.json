@@ -1,0 +1,14 @@
+{
+  "name": "twilio-rickroll",
+  "version": "1.0.0",
+  "description": "RickRoll via Twilio",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Seshal Jain",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "twilio": "^3.82.1"
+  }
+}
